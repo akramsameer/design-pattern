@@ -1,5 +1,5 @@
 interface IPaymentStrategy {
-  pay(): () => void;
+  pay(): void;
 }
 
 export default IPaymentStrategy;
