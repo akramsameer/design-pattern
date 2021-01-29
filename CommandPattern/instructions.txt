@@ -1,0 +1,6 @@
+Command Pattern Definition : 
+    - Encapsulate a request as an object, thereby you parameterize other objects with different requests,
+    queue or log requests, and support undoubled operations 
+
+Keys:
+    - From outside, no other objects really know what actions get preformed on what receiver.
